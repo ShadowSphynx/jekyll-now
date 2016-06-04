@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Utkarsh Bajpai
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Well at this time, I am a beginner in coding. Would keep updating... ;)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -27,9 +27,9 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/6262024/shadow-sphynx
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: u/0/103899452139826848173
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
