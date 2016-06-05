@@ -13,4 +13,4 @@ That's enough fow now. Hope to write more. **_Saayo Naara!!_**
 
 *P.S-* Here's a joke. Just like that...
 
-![I am a Programmer too...](http://postimg.org/image/bj13w7r97/ "Programmers")
+![alt text](http://s33.postimg.org/l3kqj3glb/images_q_tbn_ANd9_Gc_TQc_Y5_V76_C0_Yn5co_IK7w_Ji75_Xi2p_Mj.jpg "Prgrammers!!")
