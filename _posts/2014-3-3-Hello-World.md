@@ -13,4 +13,4 @@ That's enough fow now. Hope to write more. **_Saayo Naara!!_**
 
 *P.S-* Here's a joke. Just like that...
 
-![I am a Programmer too...](![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") "Programmers")
+![I am a Programmer too...](http://postimg.org/image/bj13w7r97/ "Programmers")
